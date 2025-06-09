@@ -195,7 +195,106 @@ This quiz helps IT professionals understand ticket management, incident handling
 
 ---
 
+# IT Service Desk & Ticket Handling Quiz - Part 3
+
+## 🚀 Overview
+This quiz expands IT professionals' knowledge of ticket management, service desk principles, and ITIL best practices.
+
+## 🛠 Questions & Answers
+
+### 1️⃣ What is the purpose of incident prioritization?
+- [ ] Assign tickets to specific technicians  
+- [x] Ensure critical issues are resolved first  
+- [ ] Close tickets faster  
+- [ ] Document incidents in detail  
+
+**🛠 Explanation:** Incident prioritization ensures that critical issues with the highest impact on business operations are addressed first.
+
+---
+
+### 2️⃣ What is the role of a service desk in ITIL?
+- [x] Act as a single point of contact for IT users  
+- [ ] Manage hardware inventory  
+- [ ] Monitor network traffic  
+- [ ] Develop software applications  
+
+**🛠 Explanation:** In ITIL, the service desk serves as a single point of contact for IT users, handling incidents, service requests, and communication with the IT team.
+
+---
+
+### 3️⃣ What is the purpose of escalation in ticket handling?
+- [ ] Assign tickets to junior staff  
+- [x] Ensure tickets are resolved within SLA timelines  
+- [ ] Close tickets more quickly  
+- [ ] Avoid documenting the issue  
+
+**🛠 Explanation:** Escalation ensures that tickets are resolved within SLA timelines by involving higher-level support or specialized teams when necessary.
+
+---
+
+### 4️⃣ What is a common metric used to measure IT service desk performance?
+- [ ] Number of tickets reopened  
+- [x] Average resolution time  
+- [ ] Number of technicians on the team  
+- [ ] Amount of hardware inventory  
+
+**🛠 Explanation:** Average resolution time reflects the efficiency of resolving tickets and is a key metric in measuring IT service desk performance.
+
+---
+
+### 5️⃣ What is the purpose of a knowledge base in IT support?
+- [ ] Store user credentials securely  
+- [x] Provide a repository of solutions and troubleshooting steps  
+- [ ] Track the number of tickets resolved  
+- [ ] Monitor technician performance  
+
+**🛠 Explanation:** A knowledge base helps technicians resolve issues efficiently and empowers users to find answers independently.
+
+---
+
+### 6️⃣ What is the difference between an incident and a service request?
+- [ ] An incident is a request for new software, while a service request is a system failure  
+- [x] An incident is an unplanned interruption, while a service request is a routine request  
+- [ ] An incident is always high priority, while a service request is low priority  
+- [ ] No difference between the two  
+
+**🛠 Explanation:** An incident is an unplanned interruption to an IT service, while a service request is a routine request for access to or information about an IT service.
+
+---
+
+### 7️⃣ What is the purpose of a configuration item (CI) in ITIL?
+- [x] Represent any component that needs to be managed to deliver an IT service  
+- [ ] Track ticket resolution times  
+- [ ] Monitor system performance  
+- [ ] Categorize tickets  
+
+**🛠 Explanation:** A configuration item (CI) represents any component (hardware, software, or documentation) that must be managed for IT service delivery.
+
+---
+
+### 8️⃣ What is the role of a change advisory board (CAB)?
+- [x] Review and approve proposed changes to IT systems  
+- [ ] Resolve incidents quickly  
+- [ ] Assign tickets to technicians  
+- [ ] Monitor network performance  
+
+**🛠 Explanation:** A change advisory board (CAB) reviews and approves IT system modifications to ensure they are implemented safely and effectively.
+
+---
+
+### 9️⃣ What is the purpose of a service level report?
+- [x] Provide information on SLA performance and compliance  
+- [ ] Track ticket resolution times  
+- [ ] Monitor system performance  
+- [ ] Categorize tickets  
+
+**🛠 Explanation:** A service level report offers insights into SLA performance, helping organizations assess and improve their service delivery.
+
+---
+
 ### 🔥 More questions available!
+
+
 
 
 
