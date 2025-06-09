@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incident Response Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Incident Response Quiz</h1>
+        <div id="question-container">
+            <p id="question-text"></p>
+            <div id="answer-buttons"></div>
+        </div>
+        <button id="next-button">Next</button>
+        <p id="score"></p>
+
+        <!-- Personalized Question Box -->
+        <div class="custom-question">
+            <h2>Create Your Own Question</h2>
+            <input type="text" id="user-question" placeholder="Enter your question here">
+            <input type="text" id="user-option1" placeholder="Option 1">
+            <input type="text" id="user-option2" placeholder="Option 2">
+            <input type="text" id="user-option3" placeholder="Option 3">
+            <input type="text" id="user-option4" placeholder="Option 4">
+            <select id="correct-answer">
+                <option value="0">Option 1</option>
+                <option value="1">Option 2</option>
+                <option value="2">Option 3</option>
+                <option value="3">Option 4</option>
+            </select>
+            <button onclick="addCustomQuestion()">Add Question</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
